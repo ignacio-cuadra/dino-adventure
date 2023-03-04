@@ -10,5 +10,9 @@
   "devDependencies": {
     "typescript": "^4.5.4",
     "vite": "^2.9.15"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.3",
+    "redux": "^4.2.1"
   }
 }
